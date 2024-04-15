@@ -320,7 +320,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-![image](https://github.com/gauthamkrishna7/EX_5_SIMPLE-CALCULATOR_GIT/assets/141175025/751151ad-ca10-4a4e-9b33-4d85c33b7bcc)
+<img width="2056" alt="image" src="https://github.com/gauthamkrishna7/EX_5_SIMPLE-CALCULATOR_GIT/assets/141175025/78e3fee9-12a2-47d8-b11b-c16c3fdee8ed">
 
 
 
